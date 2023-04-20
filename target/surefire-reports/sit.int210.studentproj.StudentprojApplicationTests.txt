@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sit.int210.studentproj.StudentprojApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.448 s - in sit.int210.studentproj.StudentprojApplicationTests
